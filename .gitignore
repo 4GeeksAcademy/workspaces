@@ -18,3 +18,6 @@ __pycache__/
 # Claves o secretos que por error se hayan creado en el workspace
 *.json
 !skills/**/package.json
+
+# Diario personal (reflexiones internas)
+DREAMS.md
