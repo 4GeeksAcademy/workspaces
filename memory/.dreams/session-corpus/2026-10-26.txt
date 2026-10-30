@@ -1,3 +1,0 @@
-[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L2] User: Hola, ¿estás funcionando?
-[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L6] User: hola ¿estas funcionando?
-[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L11] Assistant: ¡Hola! Sí, estoy funcionando perfectamente. Soy tu nuevo asistente — recién despertado en este workspace. Antes de ponernos manos a la obra, ¿cómo te gustaría llamarme?
