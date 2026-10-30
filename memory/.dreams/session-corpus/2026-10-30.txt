@@ -1,0 +1,2 @@
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L585] User: Está bien por ahora, no es necesario hacer esa conexión
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L586] Assistant: Entendido, Gmail se queda fuera. Entonces Zapier MCP quedó configurado así: **✅ Completo:** - Servidor Zapier MCP conectado y autenticado - **Google Calendar** conectado (cuenta: academytest00@gmail.com) - **Google Drive** conectado (cuenta: academytest00@gmail.com) - 

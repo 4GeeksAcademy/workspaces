@@ -1,0 +1,5 @@
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L521] User: Guarda la skill
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L522] Assistant: ¡Vamos a guardar la skill! Primero reviso el formato que espera `create_zapier_skill`:
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L525] Assistant: La función de crear skill funciona. Ahora creo la skill real con el flujo que demostramos: leer eventos del calendario y buscar archivos en Drive.
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L533] Assistant: ¡Listo! La skill quedó guardada. ✅ **📋 Skill guardada: "mi resumen"** - **Qué hace:** obtiene tus eventos del calendario (próximos 7 días) y tus archivos recientes de Google Drive, y te los presenta combinados. - **Cómo usarla:** solo dile a Ada (aquí o en un chat nue
+[main/sessions/main/687115af-f810-4941-a7fe-18d79e4d782b#L533] Assistant: prefieres? ✦
